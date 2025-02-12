@@ -49,13 +49,3 @@ img {
   display: block;
   max-width: 100%;
 }
-
-.active {
-  color: gold;
-}
-.outlet {
-  background-color: yellow;
-  width: 50vw;
-  height: 50vh;
-  overflow: scroll;
-}
