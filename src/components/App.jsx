@@ -1,7 +1,14 @@
+// import { Counter } from "./Counter/Counter";
 
-export default function App() {
+import { Counter } from "./Counter/Counter";
+import Header from "./Header/Header";
+
+const App = () => {
   return (
-    <main>
-    </main>
+    <div>
+      <Header />
+      <Counter />
+    </div>
   );
-}
+};
+export default App;

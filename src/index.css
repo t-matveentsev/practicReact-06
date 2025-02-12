@@ -49,3 +49,12 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  padding: 20px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+}
